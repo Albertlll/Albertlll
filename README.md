@@ -7,14 +7,14 @@
 <h3 align="center">
   <img src="https://img.shields.io/badge/React-508068.svg?style=for-the-badge&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-508068.svg?style=for-the-badge&logo=next.js&logoColor=white"/>
-<a href="https://emoji.gg/emoji/38725-shinybellsprout"><img src="https://cdn3.emoji.gg/emojis/38725-shinybellsprout.gif" width="32px" height="32px" alt="ShinyBellsprout"></a>
+<img src="https://cdn3.emoji.gg/emojis/38725-shinybellsprout.gif" width="32px" height="32px" alt="ShinyBellsprout">
   <img src="https://img.shields.io/badge/React_Native-508068.svg?style=for-the-badge&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/Expo-508068.svg?style=for-the-badge&logo=expo&logoColor=white"/>
 </h3>
 <h3 align="center">
   <img src="https://img.shields.io/badge/zustand-445C4C.svg?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/tailwindcss-445C4C.svg?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <a href="https://emoji.gg/emoji/41430-shinybulbasaur"><img src="https://cdn3.emoji.gg/emojis/41430-shinybulbasaur.gif" width="32px" height="32px" alt="ShinyBulbasaur"></a>
+  <img src="https://cdn3.emoji.gg/emojis/41430-shinybulbasaur.gif" width="32px" height="32px" alt="ShinyBulbasaur">
 </h3>
 
 <h2> My Educations: </h2>
