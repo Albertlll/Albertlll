@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Expo-508068.svg?style=for-the-badge&logo=expo&logoColor=white"/>
 </h3>
 <h3 align="center">
-  <img src="https://img.shields.io/badge/Socket.IO-445C4C.svg?style=for-the-badge&logo=socket.io&logoColor=white"/>
+  <img src="https://img.shields.io/badge/zustand-445C4C.svg?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/tailwindcss-445C4C.svg?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
   <a href="https://emoji.gg/emoji/41430-shinybulbasaur"><img src="https://cdn3.emoji.gg/emojis/41430-shinybulbasaur.gif" width="32px" height="32px" alt="ShinyBulbasaur"></a>
 </h3>
