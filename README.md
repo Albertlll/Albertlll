@@ -1,8 +1,8 @@
 <h1 align="center">
 <!--   <img src="https://github.com/Templarian/slack-emoji-pokemon/blob/master/emojis/jumpluff.png"/>
    -->
-  Hi my name is Alan!
-
+ <img src="https://i0.wp.com/media1.giphy.com/media/eSwGh3YK54JKU/giphy.gif" width="300px" alt="ShinyCaterpie"> 
+   <p>Frontend is good.</p>
 </h1>
 <h3 align="center">
   <img src="https://img.shields.io/badge/React-508068.svg?style=for-the-badge&logo=react&logoColor=white"/>
@@ -18,7 +18,7 @@
 </h3>
 
 <h2> My Educations: </h2>
-<h3>   <a href="https://emoji.gg/emoji/10195-shinycaterpie"><img src="https://cdn3.emoji.gg/emojis/10195-shinycaterpie.gif" width="20px" height="20px" alt="ShinyCaterpie"></a> Yandex Lyceum - 2020 - 2022; </h3>
+<h3>   <img src="https://cdn3.emoji.gg/emojis/10195-shinycaterpie.gif" width="20px" height="20px" alt="ShinyCaterpie"> Yandex Lyceum - 2020 - 2022; </h3>
 <h3> CIT KAI - 2020 - 20xx; </h3>
 
 
