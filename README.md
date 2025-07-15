@@ -22,7 +22,7 @@
 <h3> CIT KAI - 2020 - 20xx; </h3>
 
 
-<h2> My awwards: </h2>
+<h2> My awards: </h2>
 <h4>
   
   <code> Kazan Tatar By Hackathon 2024 -  1 place </code>
